@@ -1,0 +1,6 @@
+{
+  "name": "EasyCom ERP",
+  "description": "Comprehensive Easyecom-style ERP for PO creation, approval workflow, GRN barcode scanning, real-time inventory, low-stock email alerts, kitchen batch tracking, and FG barcode generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
